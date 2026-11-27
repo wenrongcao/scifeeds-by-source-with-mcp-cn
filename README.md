@@ -12,6 +12,10 @@
 
 仓库提供的两份 OPML 初始内容一致。修改订阅时，请同步维护两份清单和下方来源列表；否则技能优先使用成功返回的 MCP 清单，离线回退时使用技能快照。
 
+## 演示：使用本地模型NIVIDIA Nemotron 3.5 Bolt E4B
+
+[观看演示视频](assets/scifeeds-demo.mov)
+
 ## 安装
 
 需要 Git、Python 3.10 或更高版本以及支持 MCP 的 Hermes Agent。克隆仓库并将技能复制到当前 Hermes profile 的技能目录：
