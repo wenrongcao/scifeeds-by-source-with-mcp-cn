@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>SciFeeds portable source manifest (32 feeds)</title>
+  </head>
+  <body>
+    <outline type="rss" htmlUrl="https://agupubs.onlinelibrary.wiley.com/journal/2576604x" title="AGU Advances" text="AGU Advances" xmlUrl="https://agupubs.onlinelibrary.wiley.com/feed/2576604x/most-recent" />
+    <outline type="rss" htmlUrl="https://www.annualreviews.org/content/journals/earth" title="Annual Review of Earth and Planetary Sciences: Most Recent Articles" text="Annual Review of Earth and Planetary Sciences: Most Recent Articles" xmlUrl="https://www.annualreviews.org/rss/content/journals/earth/latestarticles?fmt=rss" />
+    <outline type="rss" title="Down to Earth Questions" text="Down to Earth Questions" xmlUrl="https://downtoearthquestions.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://downtoearthquestions.blogspot.com/" />
+    <outline type="rss" title="essoar geology" text="essoar geology" xmlUrl="https://essopenarchive.org/action/showFeed?ui=0&amp;mi=3fv225&amp;type=search&amp;feed=rss&amp;query=%2526AllField%253Dgeology%2526content%253Dpreprints" htmlUrl="https://essopenarchive.org/" />
+    <outline type="rss" title="EPSL" text="EPSL" xmlUrl="https://rss.sciencedirect.com/publication/science/0012821X" htmlUrl="https://www.sciencedirect.com/journal/earth-and-planetary-science-letters" />
+    <outline type="rss" title="ESR" text="ESR" xmlUrl="https://rss.sciencedirect.com/publication/science/00128252" htmlUrl="https://www.sciencedirect.com/journal/earth-science-reviews" />
+    <outline type="rss" title="Frontiers in Earth Science" text="Frontiers in Earth Science" xmlUrl="https://www.frontiersin.org/journals/earth-science/rss" htmlUrl="https://www.frontiersin.org/journals/earth-science" />
+    <outline type="rss" title="Geology" text="Geology" xmlUrl="https://pubs.geoscienceworld.org/rss/site_65/advanceAccess_33.xml" htmlUrl="https://pubs.geoscienceworld.org/geology" />
+    <outline type="rss" title="Geoscience Frontiers" text="Geoscience Frontiers" xmlUrl="https://rss.sciencedirect.com/publication/science/16749871" htmlUrl="https://www.sciencedirect.com/journal/geoscience-frontiers" />
+    <outline type="rss" title="Geosphere" text="Geosphere" xmlUrl="https://pubs.geoscienceworld.org/rss/site_67/advanceAccess_34.xml" htmlUrl="https://pubs.geoscienceworld.org/geosphere" />
+    <outline type="rss" title="GGG" text="GGG" xmlUrl="https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=15252027&amp;type=etoc&amp;feed=rss" htmlUrl="https://agupubs.onlinelibrary.wiley.com/journal/15252027" />
+    <outline type="rss" title="GRL" text="GRL" xmlUrl="https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=19448007&amp;type=etoc&amp;feed=rss" htmlUrl="https://agupubs.onlinelibrary.wiley.com/journal/19448007" />
+    <outline type="rss" title="GSA Bulletin" text="GSA Bulletin" xmlUrl="https://pubs.geoscienceworld.org/rss/site_69/advanceAccess_35.xml" htmlUrl="https://pubs.geoscienceworld.org/gsabulletin" />
+    <outline type="rss" title="Homepage on Miao Yu | 于淼" text="Homepage on Miao Yu | 于淼" xmlUrl="https://yufree.cn/index.xml" htmlUrl="https://yufree.cn/" />
+    <outline type="rss" title="JAES" text="JAES" xmlUrl="https://rss.sciencedirect.com/publication/science/13679120" htmlUrl="https://www.sciencedirect.com/journal/journal-of-asian-earth-sciences" />
+    <outline type="rss" title="JGR SolidEarth" text="JGR SolidEarth" xmlUrl="https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=21699356&amp;type=etoc&amp;feed=rss" htmlUrl="https://agupubs.onlinelibrary.wiley.com/journal/21699356" />
+    <outline type="rss" title="JSG" text="JSG" xmlUrl="https://rss.sciencedirect.com/publication/science/01918141" htmlUrl="https://www.sciencedirect.com/journal/journal-of-structural-geology" />
+    <outline type="rss" title="Lithos" text="Lithos" xmlUrl="https://rss.sciencedirect.com/publication/science/00244937" htmlUrl="https://www.sciencedirect.com/journal/lithos" />
+    <outline type="rss" title="Lithosphere" text="Lithosphere" xmlUrl="https://pubs.geoscienceworld.org/rss/site_71/36.xml" htmlUrl="https://pubs.geoscienceworld.org/lithosphere" />
+    <outline type="rss" title="Nature" text="Nature" xmlUrl="https://www.nature.com/nature.rss" htmlUrl="https://www.nature.com/nature" />
+    <outline type="rss" title="Nature Geoscience" text="Nature Geoscience" xmlUrl="https://www.nature.com/ngeo.rss" htmlUrl="https://www.nature.com/ngeo" />
+    <outline type="rss" title="Nature Reviews Earth &amp; Environment" text="Nature Reviews Earth &amp; Environment" xmlUrl="https://www.nature.com/natrevearthenviron.rss" htmlUrl="https://www.nature.com/natrevearthenviron" />
+    <outline type="rss" title="PNAS Earth Sciences" text="PNAS Earth Sciences" xmlUrl="https://www.pnas.org/action/showFeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCode=earth-sci" htmlUrl="https://www.pnas.org/topic/earth-sci" />
+    <outline type="rss" title="Science" text="Science" xmlUrl="https://feeds.science.org/rss/science.xml" htmlUrl="https://www.science.org/journal/science" />
+    <outline type="rss" title="Science Advances" text="Science Advances" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=sciadv" htmlUrl="https://www.science.org/journal/sciadv" />
+    <outline type="rss" title="Speaking of Geoscience" text="Speaking of Geoscience" xmlUrl="https://speakingofgeoscience.org/feed/" htmlUrl="https://speakingofgeoscience.org" />
+    <outline type="rss" title="Tectonics" text="Tectonics" xmlUrl="https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=19449194&amp;type=etoc&amp;feed=rss" htmlUrl="https://agupubs.onlinelibrary.wiley.com/journal/19449194" />
+    <outline type="rss" title="Tectonophysics" text="Tectonophysics" xmlUrl="https://rss.sciencedirect.com/publication/science/00401951" htmlUrl="https://www.sciencedirect.com/journal/tectonophysics" />
+    <outline type="rss" title="Terry Tao" text="Terry Tao" xmlUrl="https://terrytao.wordpress.com/feed/" htmlUrl="https://terrytao.wordpress.com" />
+    <outline type="rss" title="T客邦" text="T客邦" xmlUrl="https://feeds.feedburner.com/techbang/daily?format=xml" htmlUrl="https://www.techbang.com/" />
+    <outline type="rss" title="豆瓣最受欢迎的书评" text="豆瓣最受欢迎的书评" xmlUrl="https://www.douban.com/feed/review/book" htmlUrl="https://book.douban.com/review/book_best/" />
+    <outline type="rss" title="豆瓣最受欢迎的影评" text="豆瓣最受欢迎的影评" xmlUrl="https://www.douban.com/feed/review/movie" htmlUrl="https://movie.douban.com/review/movie_best/" />
+  </body>
+</opml>
