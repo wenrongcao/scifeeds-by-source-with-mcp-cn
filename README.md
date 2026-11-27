@@ -14,7 +14,9 @@
 
 ## 演示：使用本地模型NIVIDIA Nemotron 3.5 Bolt E4B
 
-[观看演示视频](assets/scifeeds-demo.mov)
+https://github.com/user-attachments/assets/e0e66129-f5f1-419f-bf66-0d7008be1079
+
+[下载演示视频](assets/scifeeds-demo.mov)
 
 ## 安装
 
